@@ -26,5 +26,5 @@ _Layout.cshtml additional stylesheets and scripts are added from the CSS_Js.txtf
 A dropdown added to the NavBardropdown changed to the Content Management
 Ran the application to check if the dropdown is working
 so far so good
-Committed the changes
+12:54 AM Committed the changes 
 --------------------------------------------------------------------------------------------------------------------------------------
