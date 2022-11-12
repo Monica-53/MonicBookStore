@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using MonicBookStore.Models;
+using MonicBookStore.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
